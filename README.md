@@ -1,2 +1,2 @@
-# codepath
-All codepath projects
+# Codepath projects
+- Web 101 project: event website
